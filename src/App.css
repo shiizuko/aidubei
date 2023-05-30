@@ -81,7 +81,7 @@
   border: none;
   background-color: #03724D;
   color: #f0f0f0;
-  padding: 1rem 4rem;
+  padding: 0.5rem 1rem;
   margin-top: 10px;
   font-size: 1.2rem;
   font-weight: 500;
@@ -110,8 +110,8 @@
   font-size: 1.5rem;
   font-family: 'Unbounded', cursive;
   font-weight: 400;
-  padding-top: 80px;
-  margin-bottom: 20px;
+  padding-top: 20px;
+  margin-bottom: 10px;
   color: #f0f0f0;
  }
  .quantidade {
@@ -134,3 +134,40 @@
   font-weight: 300;
  }
 
+.adicionarCompostagem {
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+
+.adicionar-compostagem-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.residuos-adicionar-compostagem {
+  margin-top:20px !important;
+}
+
+.button-menu {
+  cursor: pointer !important;
+}
+
+.troca-button {
+  margin-bottom: 10px;
+
+}
+
+.titulo-parceiros {
+  padding-top: 10px;
+}
+
+.App-Parceiros {
+  background-color: #f0f0f0;
+  min-height: 100vh;
+}
+.App-Compostagem {
+  background-color: #f0f0f0;
+  min-height: 100vh;
+}
