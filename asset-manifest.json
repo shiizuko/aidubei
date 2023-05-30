@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aidubei/static/css/main.86ab1809.css",
+    "main.js": "/aidubei/static/js/main.485111ae.js",
+    "static/js/787.7dcafac2.chunk.js": "/aidubei/static/js/787.7dcafac2.chunk.js",
+    "static/media/ecology-bag.png": "/aidubei/static/media/ecology-bag.83fcdfc653318e0259ef.png",
+    "index.html": "/aidubei/index.html",
+    "main.86ab1809.css.map": "/aidubei/static/css/main.86ab1809.css.map",
+    "main.485111ae.js.map": "/aidubei/static/js/main.485111ae.js.map",
+    "787.7dcafac2.chunk.js.map": "/aidubei/static/js/787.7dcafac2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86ab1809.css",
+    "static/js/main.485111ae.js"
+  ]
+}
